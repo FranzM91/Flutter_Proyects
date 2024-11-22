@@ -1,0 +1,205 @@
+[
+    {
+        "id": 1,
+        "name": "El asno y el lobo",
+        "image": "assets/images/1.jpg",
+        "imageHeader": "assets/images/header_1.jpg",
+        "message": "No Cambies de oficio, si no recibes beneficio"
+    },
+    {
+        "id": 2,
+        "name": "El lobo y el murciélago",
+        "image": "assets/images/2.jpg",
+        "imageHeader": "assets/images/header_2.jpg",
+        "message": "Quien a nadie hace daño, vive feliz todo el año"
+    },
+    {
+        "id": 3,
+        "name": "El leon y los cuatro bueyes",
+        "image": "assets/images/3.jpg",
+        "imageHeader": "assets/images/header_3.jpg",
+        "message": "La union hace la fuerza, y la discordia la debilidad"
+    },
+    {
+        "id": 4,
+        "name": "El asno y la zorra",
+        "image": "assets/images/4.jpg",
+        "imageHeader": "assets/images/header_4.jpg",
+        "message": "Traicion bajo amistad, es doble maldad"
+    },
+    {
+        "id": 5,
+        "name": "El granfero y sus perros",
+        "image": "assets/images/5.jpg",
+        "imageHeader": "assets/images/header_5.jpg",
+        "message": "Responder al airado con ira, es echar leña al fuego"
+    },
+    {
+        "id": 6,
+        "name": "El avaro y el leon de oro",
+        "image": "assets/images/6.jpg",
+        "imageHeader": "assets/images/header_6.jpg",
+        "message": "Ocasion desaprovechada, necedad probada"
+    },
+    {
+        "id": 7,
+        "name": "El asno salvaje y el domestico",
+        "image": "assets/images/7.jpg",
+        "imageHeader": "assets/images/header_7.jpg",
+        "message": "Mas amo libertad con pobreza que prision con riqueza"
+    },
+    {
+        "id": 8,
+        "name": "Los caminantes",
+        "image": "assets/images/8.jpg",
+        "imageHeader": "assets/images/header_8.jpg",
+        "message": "Pruebe la hiel quien comio la miel"
+    },
+    {
+        "id": 9,
+        "name": "Es asno vestido con piel de leon",
+        "image": "assets/images/9.jpg",
+        "imageHeader": "assets/images/header_9.jpg",
+        "message": "Quien engañar pretende, con el castigo aprende."
+    },
+    {
+        "id": 10,
+        "name": "El cabrero y la cabra",
+        "image": "assets/images/10.jpg",
+        "imageHeader": "assets/images/header_10.jpg",
+        "message": "Tu secreto, solo a uno; y, mejor, a ninguno"
+    },
+    {
+        "id": 11,
+        "name": "El lobo y el carnero",
+        "image": "assets/images/11.jpg",
+        "imageHeader": "assets/images/header_11.jpg",
+        "message": "Aunque cambies de vestido, igual se cumple tu destino"
+    },
+    {
+        "id": 12,
+        "name": "El abeto y el espino",
+        "image": "assets/images/12.jpg",
+        "imageHeader": "assets/images/header_12.jpg",
+        "message": "El soberbio perece, y el humilde permanece"
+    },
+    {
+        "id": 13,
+        "name": "La liebre mendiga",
+        "image": "assets/images/13.jpg",
+        "imageHeader": "assets/images/header_13.jpg",
+        "message": "Pereza no es pobreza; pero por ahi empieza"
+    },
+    {
+        "id": 14,
+        "name": "Guerra entre gatos y ratones",
+        "image": "assets/images/14.jpg",
+        "imageHeader": "assets/images/header_14.jpg",
+        "message": "Quien mucho se quiere hinchar, por fuerza ha de reventar"
+    },
+    {
+        "id": 15,
+        "name": "El leon y el ciervo",
+        "image": "assets/images/15.jpg",
+        "imageHeader": "assets/images/header_15.jpg",
+        "message": "En oportunidades perdidas, lamentaciones no salva vidas"
+    },
+    {
+        "id": 16,
+        "name": "El aguila, la gata y la jabalina",
+        "image": "assets/images/16.jpg",
+        "imageHeader": "assets/images/header_16.jpg",
+        "message": "A quien te engaña con un cuento, desprecialo al momento"
+    },
+    {
+        "id": 17,
+        "name": "Los viajeros y la ostra",
+        "image": "assets/images/17.jpg",
+        "imageHeader": "assets/images/header_17.jpg",
+        "message": "Dos por la perla pelean, y llega un tercero y se la lleva"
+    },
+    {
+        "id": 18,
+        "name": "El leon y los cuatro bueyes",
+        "image": "assets/images/18.jpg",
+        "imageHeader": "assets/images/header_18.jpg",
+        "message": "La union hace la fuerza, y la discordia debilidad"
+    },
+    {
+        "id": 19,
+        "name": "El perro del hortelano",
+        "image": "assets/images/19.jpg",
+        "imageHeader": "assets/images/header_19.jpg",
+        "message": "Agua que no has de beber, dejala correr"
+    },
+    {
+        "id": 20,
+        "name": "El ciego",
+        "image": "assets/images/20.jpg",
+        "imageHeader": "assets/images/header_20.jpg",
+        "message": "Lo que con los ojos no miro, con el dedo lo adivino"
+    },
+    {
+        "id": 21,
+        "name": "El abodago y las peras",
+        "image": "assets/images/21.jpg",
+        "imageHeader": "assets/images/header_21.jpg",
+        "message": "A buen hambre no hay pan duro"
+    },
+    {
+        "id": 22,
+        "name": "La muerte y el fracasado",
+        "image": "assets/images/22.jpg",
+        "imageHeader": "assets/images/header_22.jpg",
+        "message": "Mas vale vivir con amargura, que descansar en sepultura"
+    },
+    {
+        "id": 23,
+        "name": "El zorro sin cola",
+        "image": "assets/images/23.jpg",
+        "imageHeader": "assets/images/header_23.jpg",
+        "message": "No es consejo bien decibido, el que tiene algo escondido"
+    },
+    {
+        "id": 24,
+        "name": "El pastor y los lobeznos",
+        "image": "assets/images/24.jpg",
+        "imageHeader": "assets/images/header_24.jpg",
+        "message": "Cria cuervos y te sacaran los ojos"
+    },
+    {
+        "id": 25,
+        "name": "El cervatillo curioso",
+        "image": "assets/images/25.jpg",
+        "imageHeader": "assets/images/header_25.jpg",
+        "message": "Ni buscar la muerte es valentia ni huir es cobardia"
+    },
+    {
+        "id": 26,
+        "name": "Los caracoles",
+        "image": "assets/images/26.jpg",
+        "imageHeader": "assets/images/header_26.jpg",
+        "message": "Nada en la vida da mas paz, que hacer bien a los demas"
+    },
+    {
+        "id": 27,
+        "name": "La mona y los monitos",
+        "image": "assets/images/27.jpg",
+        "imageHeader": "assets/images/header_27.jpg",
+        "message": "No siempre el predilecto, conserva vida y efecto"
+    },
+    {
+        "id": 28,
+        "name": "El cabrito y el lobo",
+        "image": "assets/images/28.jpg",
+        "imageHeader": "assets/images/header_28.jpg",
+        "message": "Actuando con obediencia, se cumple con la conciencia"
+    },
+    {
+        "id": 29,
+        "name": "El oso y el leon",
+        "image": "assets/images/29.jpg",
+        "imageHeader": "assets/images/header_29.jpg",
+        "message": "Quien disputa y no comparte, perdera toda su parte"
+    }
+]
