@@ -63,26 +63,26 @@ class FabulaScreenState extends State<FabulaScreen> {
 
   Widget BodyWidget() {
     return Container(
-      child: Image(
-        // image: AssetImage('assets/images/1.jpg')
-        image: _controller.entity!.imageBody,
-      ),
-      // child: const Column(
-      //   crossAxisAlignment: CrossAxisAlignment.center,
-      //   textBaseline: TextBaseline.alphabetic,
-      //   children: [
-      //     SizedBox(height: 20,),
-      //     Text("El asno y el lobo", style: TextStyle(color: Colors.redAccent, fontSize: 20, fontWeight: FontWeight.bold,),),
-      //     SizedBox(height: 20,),
-      //     Text('Cierto asno, viendo que se le acercaba un lobo y que no podía escapar de él, simuló encontrarse cojo.\n\n'
-      //         'El lobo, acercándose, le preguntó la causa de su cojera. El borrico le respondió que se le había introducido una espina en una de sus patas. Y añadió:\n\n'
-      //         '—Quíteme, por favor, esa espina, señor lobo y devóreme cuando le plazca, sin temor de lastimarse la boca.\n\n'
-      //         'El lobo se dejó convencer mansamente; pero, al levantar la pata del asno, recibió tan terrible coz que se quedó sin un solo diente en las mandíbulas.\n\n'
-      //         '—Bien merecido lo tengo, porque siendo mi oficio carnicero, ¿por qué me metí a curandero? —dijo el lobo.\n'),
-      //     Text("MORALEJA", style: TextStyle(color: Colors.redAccent, fontSize: 18, fontWeight: FontWeight.bold,),),
-      //     Text("No cambies de oficio,\n si no recibes beneficios"),
-      //   ],
+      // child: Image(
+      //   // image: AssetImage('assets/images/1.jpg')
+      //   image: _controller.entity!.imageBody,
       // ),
+      child: const Column(
+        crossAxisAlignment: CrossAxisAlignment.center,
+        textBaseline: TextBaseline.alphabetic,
+        children: [
+          SizedBox(height: 20,),
+          Text("El asno y el lobo", style: TextStyle(color: Colors.redAccent, fontSize: 20, fontWeight: FontWeight.bold,),),
+          SizedBox(height: 20,),
+          Text('Cierto asno, viendo que se le acercaba un lobo y que no podía escapar de él, simuló encontrarse cojo.\n\n'
+              'El lobo, acercándose, le preguntó la causa de su cojera. El borrico le respondió que se le había introducido una espina en una de sus patas. Y añadió:\n\n'
+              '—Quíteme, por favor, esa espina, señor lobo y devóreme cuando le plazca, sin temor de lastimarse la boca.\n\n'
+              'El lobo se dejó convencer mansamente; pero, al levantar la pata del asno, recibió tan terrible coz que se quedó sin un solo diente en las mandíbulas.\n\n'
+              '—Bien merecido lo tengo, porque siendo mi oficio carnicero, ¿por qué me metí a curandero? —dijo el lobo.\n'),
+          Text("MORALEJA", style: TextStyle(color: Colors.redAccent, fontSize: 18, fontWeight: FontWeight.bold,),),
+          Text("No cambies de oficio,\n si no recibes beneficios"),
+        ],
+      ),
     );
   }
 }

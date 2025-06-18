@@ -33,34 +33,38 @@ class HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Center(
+        title: const Center(
           child: Stack(
             children: [
               Text(
                 'Fabulas de Esopo',
                 style: TextStyle(
                   fontSize: 24,
-                  letterSpacing: 5,
-                  fontWeight: FontWeight.bold,
-                  foreground: Paint()
-                    ..style = PaintingStyle.stroke
-                    ..strokeWidth = 3
-                    ..color = Colors.white,
+                  letterSpacing: 3,
+                  // fontWeight: FontWeight.bold,
+                  fontFamily: 'Elegancesignature',
+                  color: Colors.black,
+                  // fontStyle: FontStyle.italic
                 ),
-              ),
-              const Text(
-                'Fabulas de Esopo',
-                style: TextStyle(
-                  fontSize: 24,
-                  letterSpacing: 5,
-                  fontWeight: FontWeight.bold,
-                  color: Colors.redAccent,
-                ),
+                // style: GoogleFonts.playfairDisplay(
+                //   fontSize: 28,
+                //   letterSpacing: 5,
+                //   fontWeight: FontWeight.bold,
+                //   color: Colors.black87,
+                //   // fontStyle: FontStyle.italic
+                //   // textStyle: TextStyle(
+                //   //   fontSize: 24,
+                //   //   letterSpacing: 5,
+                //   //   fontWeight: FontWeight.bold,
+                //   //   color: Colors.black54,
+                //   //   fontStyle: FontStyle.italic
+                //   // ),
+                // ),
               ),
             ],
           )
         ),
-        backgroundColor: const Color.fromARGB(255, 96, 170, 226),
+        backgroundColor: const Color.fromARGB(0, 0, 0, 0),
       ),
       body: SingleChildScrollView(
         // child: ListView.builder(
@@ -113,7 +117,7 @@ class HomeScreenState extends State<HomeScreen> {
                           // }(),
                           Center(
                             child: ClipRRect(
-                              borderRadius: BorderRadius.circular(50),
+                              borderRadius: BorderRadius.circular(10),
                               child: Container(
                                 width: 100,
                                 height: 100,
@@ -147,7 +151,7 @@ class HomeScreenState extends State<HomeScreen> {
                                     ),
                                     child: Column(
                                       mainAxisAlignment: MainAxisAlignment.center,
-                                      crossAxisAlignment: CrossAxisAlignment.center,
+                                      crossAxisAlignment: CrossAxisAlignment.start,
                                       children: [
                                         Flexible(
                                           child: Text(
@@ -157,7 +161,8 @@ class HomeScreenState extends State<HomeScreen> {
                                               textStyle: TextStyle(
                                                 fontSize: 16,
                                                 color: Colors.black,
-                                                fontStyle: FontStyle.normal,
+                                                // fontStyle: FontStyle.normal,
+                                                fontFamily: "Sanseriffic",
                                                 fontWeight: FontWeight.w600,
                                               ),
                                             ),
